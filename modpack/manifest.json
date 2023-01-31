@@ -14,5 +14,41 @@
   "version": "1.0.0",
   "author": "Clamatus",
   "name": "Adventures Trial",
-  "files": []
+  "files": [
+    {
+      "projectID": 361385,
+      "fileID": 4050832,
+      "required": true,
+      "__meta": {
+        "name": "Pam's HarvestCraft 2 - Crops"
+      }
+    },
+    {
+      "projectID": 365460,
+      "fileID": 4360314,
+      "required": true,
+      "__meta": {
+        "name": "Pam's HarvestCraft 2 - Trees"
+      }
+    },
+    {
+      "projectID": 372534,
+      "fileID": 3951938,
+      "required": true,
+      "__meta": {
+        "name": "Pam's HarvestCraft 2 - Food Core"
+      }
+    },
+    {
+      "projectID": 402231,
+      "fileID": 3998848,
+      "required": true,
+      "__meta": {
+        "name": "Pam's HarvestCraft 2 - Food Extended",
+        "dependencies": [
+          372534
+        ]
+      }
+    }
+  ]
 }
