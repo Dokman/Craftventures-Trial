@@ -77,6 +77,18 @@
       }
     },
     {
+      "projectID": 243121,
+      "fileID": 3840125,
+      "required": true,
+      "__meta": {
+        "name": "Quark",
+        "explicit": false,
+        "dependencies": [
+          250363
+        ]
+      }
+    },
+    {
       "projectID": 247560,
       "fileID": 4036050,
       "required": true,
@@ -93,6 +105,26 @@
       "required": true,
       "__meta": {
         "name": "AppleSkin"
+      }
+    },
+    {
+      "projectID": 250363,
+      "fileID": 3642382,
+      "required": true,
+      "__meta": {
+        "name": "AutoRegLib",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 250498,
+      "fileID": 4142172,
+      "required": true,
+      "__meta": {
+        "name": "Mowzie's Mobs",
+        "dependencies": [
+          388172
+        ]
       }
     },
     {
@@ -129,6 +161,27 @@
       }
     },
     {
+      "projectID": 328085,
+      "fileID": 4371807,
+      "required": true,
+      "__meta": {
+        "name": "Create",
+        "explicit": false,
+        "dependencies": [
+          486392
+        ]
+      }
+    },
+    {
+      "projectID": 331936,
+      "fileID": 3783096,
+      "required": true,
+      "__meta": {
+        "name": "Citadel",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 361385,
       "fileID": 4050832,
       "required": true,
@@ -153,6 +206,15 @@
       }
     },
     {
+      "projectID": 388172,
+      "fileID": 4181370,
+      "required": true,
+      "__meta": {
+        "name": "GeckoLib",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 398521,
       "fileID": 3999153,
       "required": true,
@@ -172,6 +234,30 @@
       }
     },
     {
+      "projectID": 412082,
+      "fileID": 4348828,
+      "required": true,
+      "__meta": {
+        "name": "Supplementaries",
+        "explicit": false,
+        "dependencies": [
+          499980
+        ]
+      }
+    },
+    {
+      "projectID": 426558,
+      "fileID": 3853078,
+      "required": true,
+      "__meta": {
+        "name": "Alex's Mobs",
+        "explicit": false,
+        "dependencies": [
+          331936
+        ]
+      }
+    },
+    {
       "projectID": 429235,
       "fileID": 4074294,
       "required": true,
@@ -185,6 +271,24 @@
       "required": true,
       "__meta": {
         "name": "Lazy DataFixerUpper(LazyDFU) [FORGE]"
+      }
+    },
+    {
+      "projectID": 486392,
+      "fileID": 4341461,
+      "required": true,
+      "__meta": {
+        "name": "Flywheel",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 499980,
+      "fileID": 3842421,
+      "required": true,
+      "__meta": {
+        "name": "Moonlight Lib",
+        "explicit": false
       }
     },
     {
@@ -229,6 +333,24 @@
         "name": "Oculus",
         "dependencies": [
           574856
+        ]
+      }
+    },
+    {
+      "projectID": 605375,
+      "fileID": 4365454,
+      "required": true,
+      "__meta": {
+        "name": "Integrated Dungeons and Structures",
+        "dependencies": [
+          243121,
+          331936,
+          499980,
+          817709,
+          328085,
+          412082,
+          250363,
+          426558
         ]
       }
     },
@@ -292,6 +414,15 @@
       "required": true,
       "__meta": {
         "name": "Saturn"
+      }
+    },
+    {
+      "projectID": 817709,
+      "fileID": 4365441,
+      "required": true,
+      "__meta": {
+        "name": "Integrated API",
+        "explicit": false
       }
     }
   ]

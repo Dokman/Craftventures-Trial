@@ -31,6 +31,19 @@ Another random Minecraft Modpack
 - Pams's HarvestCraft 2 - Trees
 - Agricraft
 
+## Storage
+
+### NPC'S
+- Alex's Mobs
+- Mowzie's Mobs
+
+### Furnitures
+- Supplementaries
+- Create
+
+### Dungeons
+- Integrated Dungeons and Structures
+
 
 ### Optimization Mods
 
@@ -50,3 +63,8 @@ Another random Minecraft Modpack
 ### Dependencies
 - Balm
 - TerraBlender
+- AutoRegLib
+- Citadel
+- GeckoLib
+- Flywheel
+- Moonlight Lib
