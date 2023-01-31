@@ -13,10 +13,11 @@ This modpack is oriented to a vanilla enhanced experience.
 - Optimizated mods to make more user sensitive
 - Furniture mods to make your house to feel like you want 
 
-## _Recommendations
+## Recommendations
 If you want to use shaders is reccomended to use Complementary
 
 [Complementary Shaders](https://www.curseforge.com/minecraft/customization/complementary-shaders)
+
 [Complementary Reimagined Shaders](https://www.complementary.dev/reimagined/)
 
 
@@ -59,7 +60,7 @@ If you want to use shaders is reccomended to use Complementary
 - Sophisticated Storage
 - Refined Storage
 - Refined Storage: Addons
-- Larga Fluid Tanks
+- Large Fluid Tanks
 
 ### NPC'S
 - Alex's Mobs
