@@ -16,6 +16,17 @@
   "name": "Adventures Trial",
   "files": [
     {
+      "projectID": 231484,
+      "fileID": 4065856,
+      "required": true,
+      "__meta": {
+        "name": "Cooking for Blockheads",
+        "dependencies": [
+          531761
+        ]
+      }
+    },
+    {
       "projectID": 361385,
       "fileID": 4050832,
       "required": true,
@@ -48,6 +59,15 @@
         "dependencies": [
           372534
         ]
+      }
+    },
+    {
+      "projectID": 531761,
+      "fileID": 4361371,
+      "required": true,
+      "__meta": {
+        "name": "Balm (Forge Edition)",
+        "explicit": false
       }
     }
   ]
