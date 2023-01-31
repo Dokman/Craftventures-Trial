@@ -4,6 +4,11 @@ Another random Minecraft Modpack
 
 ## Listed Mods
 
+### UI/UX
+- Xaero's MiniMap
+- Xaero's WorldMap
+- Jade
+
 ### Biomes
 - Biomes O' Plenty
 - Oh The Biomes You'll Go

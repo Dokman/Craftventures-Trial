@@ -77,6 +77,30 @@
       }
     },
     {
+      "projectID": 263420,
+      "fileID": 4338620,
+      "required": true,
+      "__meta": {
+        "name": "Xaero's Minimap"
+      }
+    },
+    {
+      "projectID": 317780,
+      "fileID": 4338632,
+      "required": true,
+      "__meta": {
+        "name": "Xaero's World Map"
+      }
+    },
+    {
+      "projectID": 324717,
+      "fileID": 4082408,
+      "required": true,
+      "__meta": {
+        "name": "Jade 🔍"
+      }
+    },
+    {
       "projectID": 361385,
       "fileID": 4050832,
       "required": true,
