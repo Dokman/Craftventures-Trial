@@ -33,6 +33,26 @@
       }
     },
     {
+      "projectID": 74072,
+      "fileID": 4360093,
+      "required": true,
+      "__meta": {
+        "name": "Tinkers Construct",
+        "dependencies": [
+          74924
+        ]
+      }
+    },
+    {
+      "projectID": 74924,
+      "fileID": 4353120,
+      "required": true,
+      "__meta": {
+        "name": "Mantle",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 220318,
       "fileID": 3827434,
       "required": true,
@@ -51,6 +71,18 @@
         "name": "AgriCraft",
         "dependencies": [
           251396
+        ]
+      }
+    },
+    {
+      "projectID": 225643,
+      "fileID": 3936568,
+      "required": true,
+      "__meta": {
+        "name": "Botania",
+        "dependencies": [
+          309927,
+          306770
         ]
       }
     },
@@ -184,6 +216,14 @@
       }
     },
     {
+      "projectID": 256178,
+      "fileID": 4021812,
+      "required": true,
+      "__meta": {
+        "name": "ChinjufuMod +JapaneseBlock"
+      }
+    },
+    {
       "projectID": 263420,
       "fileID": 4338620,
       "required": true,
@@ -260,6 +300,36 @@
         "name": "Better Animals Plus",
         "dependencies": [
           419699
+        ]
+      }
+    },
+    {
+      "projectID": 306770,
+      "fileID": 3846086,
+      "required": true,
+      "__meta": {
+        "name": "Patchouli",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 309927,
+      "fileID": 3841948,
+      "required": true,
+      "__meta": {
+        "name": "Curios API (Forge)",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 312353,
+      "fileID": 3984105,
+      "required": true,
+      "__meta": {
+        "name": "Artifacts",
+        "dependencies": [
+          309927,
+          465066
         ]
       }
     },
@@ -461,6 +531,15 @@
       }
     },
     {
+      "projectID": 465066,
+      "fileID": 3678612,
+      "required": true,
+      "__meta": {
+        "name": "ExpandAbility",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 478155,
       "fileID": 4066314,
       "required": true,
@@ -600,6 +679,14 @@
       }
     },
     {
+      "projectID": 629733,
+      "fileID": 3813627,
+      "required": true,
+      "__meta": {
+        "name": "Alcocraft: Beer & Stuff"
+      }
+    },
+    {
       "projectID": 630620,
       "fileID": 4271605,
       "required": true,
@@ -659,6 +746,14 @@
       "required": true,
       "__meta": {
         "name": "Saturn"
+      }
+    },
+    {
+      "projectID": 720335,
+      "fileID": 4147330,
+      "required": true,
+      "__meta": {
+        "name": "The Beer Craft"
       }
     },
     {

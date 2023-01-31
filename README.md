@@ -39,19 +39,22 @@ If you want to use shaders is reccomended to use Complementary
 
 ### Biomes
 - Biomes O' Plenty
-- Oh The Biomes You'll Go
 - Dynamic Trees
 - Dynamic Trees - Plus
 - Dynamic Trees - Biomes O' Plenity
 - Dynamic Trees - Quark
-- WayStones (Warp Stones)
 - CoralReef
+- Oh The Biomes You'll Go
+- WayStones (Warp Stones)
+
 
 ### Food
+- Aquaculture 2
+- Alcocraft: Beer & Stuff
+- Farmer's Delight
 - Pam's HarvestCraft 2 - Food Core
 - Pam's HarvestCraft 2 - Food Extended
-- Aquaculture 2
-- Farmer's Delight
+- The Beer Craft
 
 ### Crops
 - Pams's HarvestCraft 2 - Crops
@@ -72,6 +75,7 @@ If you want to use shaders is reccomended to use Complementary
 
 ### Furnitures
 - Create
+- Chinjufu +JapaneseBlock
 - MrCrayfish's Furniture Mod
 - Nosiphus Furniture Mod
 - Supplementaries
@@ -80,13 +84,17 @@ If you want to use shaders is reccomended to use Complementary
 - Integrated Dungeons and Structures
 
 ### Energy Generation / Tools
+- Artifacts
+- Botania
 - Mekanism
 - Mekanism: Generators
 - Mekanism: Tools
 - Mekanism: Additions
+- Tinkers Construct
 
 ### Server Utilities
 - Flan (Forge)
+
 
 
 ### Optimization Mods
@@ -115,3 +123,7 @@ If you want to use shaders is reccomended to use Complementary
 - Feature NBT Deadlock Be Gone
 - Scalable Cat's Force
 - Architectury API (Fabric/Forge)
+- Mantle
+- Patchouli
+- Curios API
+- ExpandAbility
