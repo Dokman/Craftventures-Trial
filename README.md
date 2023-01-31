@@ -12,6 +12,9 @@ Another random Minecraft Modpack
 - Xaero's MiniMap
 - Xaero's WorldMap
 
+### Shaders
+- Oculus
+- Rubidium Dynamic Light's
 
 ### Biomes
 - Biomes O' Plenty
@@ -28,6 +31,20 @@ Another random Minecraft Modpack
 - Pams's HarvestCraft 2 - Trees
 - Agricraft
 
+
+### Optimization Mods
+
+#### Code Optimization
+- Rubidium
+- Rubidium Extras
+- Canary
+- FastLoad
+- Smooth Boot (Reloaded)
+- ForgetMeChunk
+
+#### Memory Optimization
+- FerriteCore
+- Saturn
 
 
 ### Dependencies

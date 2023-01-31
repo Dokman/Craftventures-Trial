@@ -172,6 +172,22 @@
       }
     },
     {
+      "projectID": 429235,
+      "fileID": 4074294,
+      "required": true,
+      "__meta": {
+        "name": "FerriteCore (Forge)"
+      }
+    },
+    {
+      "projectID": 460819,
+      "fileID": 3544496,
+      "required": true,
+      "__meta": {
+        "name": "Lazy DataFixerUpper(LazyDFU) [FORGE]"
+      }
+    },
+    {
       "projectID": 531761,
       "fileID": 4361371,
       "required": true,
@@ -181,12 +197,101 @@
       }
     },
     {
+      "projectID": 551736,
+      "fileID": 3817266,
+      "required": true,
+      "__meta": {
+        "name": "Magnesium/Rubidium Dynamic Lights"
+      }
+    },
+    {
       "projectID": 563928,
       "fileID": 3957976,
       "required": true,
       "__meta": {
         "name": "TerraBlender (Forge)",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 574856,
+      "fileID": 4024781,
+      "required": true,
+      "__meta": {
+        "name": "Rubidium"
+      }
+    },
+    {
+      "projectID": 581495,
+      "fileID": 4354939,
+      "required": true,
+      "__meta": {
+        "name": "Oculus",
+        "dependencies": [
+          574856
+        ]
+      }
+    },
+    {
+      "projectID": 630620,
+      "fileID": 4271605,
+      "required": true,
+      "__meta": {
+        "name": "Fastload"
+      }
+    },
+    {
+      "projectID": 632973,
+      "fileID": 4041502,
+      "required": true,
+      "__meta": {
+        "name": "ForgetMeChunk (Forge)"
+      }
+    },
+    {
+      "projectID": 633412,
+      "fileID": 4162938,
+      "required": true,
+      "__meta": {
+        "name": "Smooth Boot (Reloaded)"
+      }
+    },
+    {
+      "projectID": 654373,
+      "fileID": 4318166,
+      "required": true,
+      "__meta": {
+        "name": "Rubidium Extra",
+        "dependencies": [
+          574856
+        ]
+      }
+    },
+    {
+      "projectID": 663125,
+      "fileID": 4296207,
+      "required": true,
+      "__meta": {
+        "name": "TexTrue's Rubidium Options",
+        "dependencies": [
+          574856
+        ]
+      }
+    },
+    {
+      "projectID": 665658,
+      "fileID": 4324082,
+      "required": true,
+      "__meta": {
+        "name": "Canary"
+      }
+    },
+    {
+      "projectID": 670986,
+      "fileID": 3981975,
+      "required": true,
+      "__meta": {
+        "name": "Saturn"
       }
     }
   ]
