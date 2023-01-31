@@ -24,6 +24,17 @@
       }
     },
     {
+      "projectID": 220318,
+      "fileID": 3827434,
+      "required": true,
+      "__meta": {
+        "name": "Biomes O' Plenty",
+        "dependencies": [
+          563928
+        ]
+      }
+    },
+    {
       "projectID": 225635,
       "fileID": 3883933,
       "required": true,
@@ -42,6 +53,17 @@
         "name": "Cooking for Blockheads",
         "dependencies": [
           531761
+        ]
+      }
+    },
+    {
+      "projectID": 247560,
+      "fileID": 4036050,
+      "required": true,
+      "__meta": {
+        "name": "Oh The Biomes You'll Go",
+        "dependencies": [
+          563928
         ]
       }
     },
@@ -103,6 +125,15 @@
       "required": true,
       "__meta": {
         "name": "Balm (Forge Edition)",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 563928,
+      "fileID": 3957976,
+      "required": true,
+      "__meta": {
+        "name": "TerraBlender (Forge)",
         "explicit": false
       }
     }
