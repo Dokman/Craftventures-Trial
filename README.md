@@ -4,7 +4,7 @@ Another random Minecraft Modpack
 
 ## Listed Mods
 
-### UI/U
+### UI/UX
 - Appleskin
 - Jade
 - Just Enough Items (JEI)
