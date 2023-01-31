@@ -31,7 +31,7 @@ Another random Minecraft Modpack
 - Pams's HarvestCraft 2 - Trees
 - Agricraft
 
-## Storage
+### Storage
 - Sophisticated Backpacks
 - Sophisticated Storage
 - Refined Storage
