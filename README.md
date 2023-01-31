@@ -4,7 +4,7 @@ Another random Minecraft Modpack
 
 ## Listed Mods
 
-### UI/U
+### UI/UX
 - Appleskin
 - Jade
 - Just Enough Items (JEI)
@@ -32,4 +32,4 @@ Another random Minecraft Modpack
 
 ### Dependencies
 - Balm
-- terraBlender
+- TerraBlender
