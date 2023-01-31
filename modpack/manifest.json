@@ -145,6 +145,14 @@
       }
     },
     {
+      "projectID": 252818,
+      "fileID": 4191387,
+      "required": true,
+      "__meta": {
+        "name": "Dynamic Trees"
+      }
+    },
+    {
       "projectID": 263420,
       "fileID": 4338620,
       "required": true,
@@ -158,6 +166,18 @@
       "required": true,
       "__meta": {
         "name": "Refined Storage Addons"
+      }
+    },
+    {
+      "projectID": 289529,
+      "fileID": 4066428,
+      "required": true,
+      "__meta": {
+        "name": "Dynamic Trees - Biomes O' Plenty",
+        "dependencies": [
+          252818,
+          220318
+        ]
       }
     },
     {
@@ -242,6 +262,18 @@
       }
     },
     {
+      "projectID": 386753,
+      "fileID": 4291473,
+      "required": true,
+      "__meta": {
+        "name": "Dynamic Trees - Quark",
+        "dependencies": [
+          243121,
+          252818
+        ]
+      }
+    },
+    {
       "projectID": 388172,
       "fileID": 4181370,
       "required": true,
@@ -318,6 +350,17 @@
       "required": true,
       "__meta": {
         "name": "Lazy DataFixerUpper(LazyDFU) [FORGE]"
+      }
+    },
+    {
+      "projectID": 478155,
+      "fileID": 4066314,
+      "required": true,
+      "__meta": {
+        "name": "Dynamic Trees +",
+        "dependencies": [
+          252818
+        ]
       }
     },
     {

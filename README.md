@@ -19,6 +19,10 @@ Another random Minecraft Modpack
 ### Biomes
 - Biomes O' Plenty
 - Oh The Biomes You'll Go
+- Dynamic Trees
+- Dynamic Trees - Plus
+- Dynamic Trees - Biomes O' Plenity
+- Dynamic Trees - Quark
 
 ### Food
 - Pam's HarvestCraft 2 - Food Core
