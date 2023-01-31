@@ -16,6 +16,14 @@
   "name": "Adventures Trial",
   "files": [
     {
+      "projectID": 60028,
+      "fileID": 4183848,
+      "required": true,
+      "__meta": {
+        "name": "Aquaculture 2"
+      }
+    },
+    {
       "projectID": 225635,
       "fileID": 3883933,
       "required": true,
