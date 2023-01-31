@@ -21,8 +21,6 @@ If you want to use shaders is reccomended to use Complementary
 [Complementary Reimagined Shaders](https://www.complementary.dev/reimagined/)
 
 
-
-
 ## Listed Mods
 
 ### UI/UX
