@@ -58,7 +58,7 @@ If you want to use shaders is reccomended to use Complementary
 - Sophisticated Storage
 - Refined Storage
 - Refined Storage: Addons
-- Larga Fluid Tanks
+- Large Fluid Tanks
 
 ### NPC'S
 - Alex's Mobs
