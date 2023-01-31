@@ -16,6 +16,15 @@
   "name": "Craftventures-Trial",
   "files": [
     {
+      "projectID": 55438,
+      "fileID": 3683524,
+      "required": true,
+      "__meta": {
+        "name": "MrCrayfish's Furniture Mod",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 60028,
       "fileID": 4183848,
       "required": true,
@@ -127,6 +136,17 @@
       }
     },
     {
+      "projectID": 248994,
+      "fileID": 3963014,
+      "required": true,
+      "__meta": {
+        "name": "CoralReef",
+        "dependencies": [
+          419699
+        ]
+      }
+    },
+    {
       "projectID": 250363,
       "fileID": 3642382,
       "required": true,
@@ -229,6 +249,17 @@
         "name": "Large Fluid Tank",
         "dependencies": [
           320926
+        ]
+      }
+    },
+    {
+      "projectID": 303557,
+      "fileID": 4318511,
+      "required": true,
+      "__meta": {
+        "name": "Better Animals Plus",
+        "dependencies": [
+          419699
         ]
       }
     },
@@ -366,6 +397,15 @@
       }
     },
     {
+      "projectID": 419699,
+      "fileID": 4147231,
+      "required": true,
+      "__meta": {
+        "name": "Architectury API (Fabric/Forge)",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 422301,
       "fileID": 4329956,
       "required": true,
@@ -397,6 +437,22 @@
       }
     },
     {
+      "projectID": 457570,
+      "fileID": 4010624,
+      "required": true,
+      "__meta": {
+        "name": "Configured"
+      }
+    },
+    {
+      "projectID": 459701,
+      "fileID": 3803098,
+      "required": true,
+      "__meta": {
+        "name": "Catalogue"
+      }
+    },
+    {
       "projectID": 460819,
       "fileID": 3544496,
       "required": true,
@@ -422,6 +478,14 @@
       "__meta": {
         "name": "Flywheel",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 493246,
+      "fileID": 4216167,
+      "required": true,
+      "__meta": {
+        "name": "Flan (Forge)"
       }
     },
     {
@@ -483,6 +547,17 @@
         "name": "Oculus",
         "dependencies": [
           574856
+        ]
+      }
+    },
+    {
+      "projectID": 593876,
+      "fileID": 4054056,
+      "required": true,
+      "__meta": {
+        "name": "Nosiphus Furniture Mod",
+        "dependencies": [
+          55438
         ]
       }
     },

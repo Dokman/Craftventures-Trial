@@ -25,6 +25,8 @@ If you want to use shaders is reccomended to use Complementary
 
 ### UI/UX
 - Appleskin
+- Catalogue
+- Configured
 - Jade
 - Just Enough Items (JEI)
 - Just Enough Recipes (JER)
@@ -43,6 +45,7 @@ If you want to use shaders is reccomended to use Complementary
 - Dynamic Trees - Biomes O' Plenity
 - Dynamic Trees - Quark
 - WayStones (Warp Stones)
+- CoralReef
 
 ### Food
 - Pam's HarvestCraft 2 - Food Core
@@ -65,10 +68,13 @@ If you want to use shaders is reccomended to use Complementary
 ### NPC'S
 - Alex's Mobs
 - Mowzie's Mobs
+- Better Animals Plus
 
 ### Furnitures
-- Supplementaries
 - Create
+- MrCrayfish's Furniture Mod
+- Nosiphus Furniture Mod
+- Supplementaries
 
 ### Dungeons
 - Integrated Dungeons and Structures
@@ -78,6 +84,9 @@ If you want to use shaders is reccomended to use Complementary
 - Mekanism: Generators
 - Mekanism: Tools
 - Mekanism: Additions
+
+### Server Utilities
+- Flan (Forge)
 
 
 ### Optimization Mods
@@ -105,3 +114,4 @@ If you want to use shaders is reccomended to use Complementary
 - Moonlight Lib
 - Feature NBT Deadlock Be Gone
 - Scalable Cat's Force
+- Architectury API (Fabric/Forge)
