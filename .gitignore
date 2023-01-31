@@ -4,6 +4,7 @@ pax.exe
 libssl*.dll
 libcrypto*.dll
 cacert.pem
+menu.cmd
 
 ### Modpack ###
 .out/
