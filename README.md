@@ -68,3 +68,4 @@ Another random Minecraft Modpack
 - GeckoLib
 - Flywheel
 - Moonlight Lib
+- Feature NBT Deadlock Be Gone
