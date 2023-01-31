@@ -17,6 +17,7 @@ This modpack is oriented to a vanilla enhanced experience.
 If you want to use shaders is reccomended to use Complementary
 
 [Complementary Shaders](https://www.curseforge.com/minecraft/customization/complementary-shaders)
+
 [Complementary Reimagined Shaders](https://www.complementary.dev/reimagined/)
 
 
