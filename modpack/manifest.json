@@ -97,6 +97,17 @@
       }
     },
     {
+      "projectID": 245755,
+      "fileID": 3830849,
+      "required": true,
+      "__meta": {
+        "name": "Waystones",
+        "dependencies": [
+          531761
+        ]
+      }
+    },
+    {
       "projectID": 247560,
       "fileID": 4036050,
       "required": true,

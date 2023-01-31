@@ -41,6 +41,7 @@ If you want to use shaders is reccomended to use Complementary
 - Dynamic Trees - Plus
 - Dynamic Trees - Biomes O' Plenity
 - Dynamic Trees - Quark
+- WayStones (Warp Stones)
 
 ### Food
 - Pam's HarvestCraft 2 - Food Core
