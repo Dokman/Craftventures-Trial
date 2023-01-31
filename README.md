@@ -32,4 +32,4 @@ Another random Minecraft Modpack
 
 ### Dependencies
 - Balm
-- terraBlender
+- TerraBlender
