@@ -2,6 +2,24 @@
 Another random Minecraft Modpack
 [![main](https://github.com/Dokman/Craftventures-Trial/actions/workflows/main.yml/badge.svg)](https://github.com/Dokman/Craftventures-Trial/actions/workflows/main.yml)
 
+## Modpack Features
+This modpack is oriented to a vanilla enhanced experience.
+
+- New biome generation
+- New dungeons with IDAS
+- A lot of new crafting features
+- Food Friendly
+- Storage Upgrade
+- Optimizated mods to make more user sensitive
+- Furniture mods to make your house to feel like you want 
+
+## _Recommendations
+If you want to use shaders is reccomended to use Complementary
+
+[Complementary Shaders](https://www.curseforge.com/minecraft/customization/complementary-shaders)
+[Complementary Reimagined Shaders](https://www.complementary.dev/reimagined/)
+
+
 ## Listed Mods
 
 ### UI/UX
