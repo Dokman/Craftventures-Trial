@@ -4,10 +4,14 @@ Another random Minecraft Modpack
 
 ## Listed Mods
 
-### UI/UX
+### UI/U
+- Appleskin
+- Jade
+- Just Enough Items (JEI)
+- Just Enough Recipes (JER)
 - Xaero's MiniMap
 - Xaero's WorldMap
-- Jade
+
 
 ### Biomes
 - Biomes O' Plenty

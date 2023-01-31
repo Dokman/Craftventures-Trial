@@ -57,6 +57,26 @@
       }
     },
     {
+      "projectID": 238222,
+      "fileID": 4352925,
+      "required": true,
+      "__meta": {
+        "name": "Just Enough Items (JEI)"
+      }
+    },
+    {
+      "projectID": 240630,
+      "fileID": 3831559,
+      "required": true,
+      "__meta": {
+        "name": "Just Enough Resources (JER)",
+        "dependencies": [
+          238222,
+          238222
+        ]
+      }
+    },
+    {
       "projectID": 247560,
       "fileID": 4036050,
       "required": true,
@@ -65,6 +85,14 @@
         "dependencies": [
           563928
         ]
+      }
+    },
+    {
+      "projectID": 248787,
+      "fileID": 3927564,
+      "required": true,
+      "__meta": {
+        "name": "AppleSkin"
       }
     },
     {
