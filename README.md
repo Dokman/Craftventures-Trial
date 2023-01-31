@@ -1,5 +1,6 @@
 # Craftventures-Trial
 Another random Minecraft Modpack
+[![main](https://github.com/Dokman/Craftventures-Trial/actions/workflows/main.yml/badge.svg)](https://github.com/Dokman/Craftventures-Trial/actions/workflows/main.yml)
 
 ## Listed Mods
 
