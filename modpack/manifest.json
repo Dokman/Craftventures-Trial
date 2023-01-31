@@ -77,6 +77,14 @@
       }
     },
     {
+      "projectID": 243076,
+      "fileID": 4217424,
+      "required": true,
+      "__meta": {
+        "name": "Refined Storage"
+      }
+    },
+    {
       "projectID": 243121,
       "fileID": 3840125,
       "required": true,
@@ -145,11 +153,39 @@
       }
     },
     {
+      "projectID": 272302,
+      "fileID": 3713972,
+      "required": true,
+      "__meta": {
+        "name": "Refined Storage Addons"
+      }
+    },
+    {
+      "projectID": 291006,
+      "fileID": 4074087,
+      "required": true,
+      "__meta": {
+        "name": "Large Fluid Tank",
+        "dependencies": [
+          320926
+        ]
+      }
+    },
+    {
       "projectID": 317780,
       "fileID": 4338632,
       "required": true,
       "__meta": {
         "name": "Xaero's World Map"
+      }
+    },
+    {
+      "projectID": 320926,
+      "fileID": 4059979,
+      "required": true,
+      "__meta": {
+        "name": "Scalable Cat's Force",
+        "explicit": false
       }
     },
     {
@@ -242,6 +278,17 @@
         "explicit": false,
         "dependencies": [
           499980
+        ]
+      }
+    },
+    {
+      "projectID": 422301,
+      "fileID": 4329956,
+      "required": true,
+      "__meta": {
+        "name": "Sophisticated Backpacks",
+        "dependencies": [
+          618298
         ]
       }
     },
@@ -359,6 +406,26 @@
           412082,
           250363,
           426558
+        ]
+      }
+    },
+    {
+      "projectID": 618298,
+      "fileID": 4329952,
+      "required": true,
+      "__meta": {
+        "name": "Sophisticated Core",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 619320,
+      "fileID": 4231381,
+      "required": true,
+      "__meta": {
+        "name": "Sophisticated Storage",
+        "dependencies": [
+          618298
         ]
       }
     },

@@ -32,6 +32,11 @@ Another random Minecraft Modpack
 - Agricraft
 
 ## Storage
+- Sophisticated Backpacks
+- Sophisticated Storage
+- Refined Storage
+- Refined Storage: Addons
+- Larga Fluid Tanks
 
 ### NPC'S
 - Alex's Mobs
@@ -69,3 +74,4 @@ Another random Minecraft Modpack
 - Flywheel
 - Moonlight Lib
 - Feature NBT Deadlock Be Gone
+- Scalable Cat's Force
