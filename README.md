@@ -73,6 +73,12 @@ If you want to use shaders is reccomended to use Complementary
 ### Dungeons
 - Integrated Dungeons and Structures
 
+### Energy Generation / Tools
+- Mekanism
+- Mekanism: Generators
+- Mekanism: Tools
+- Mekanism: Additions
+
 
 ### Optimization Mods
 
