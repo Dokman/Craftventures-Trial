@@ -13,7 +13,7 @@ This modpack is oriented to a vanilla enhanced experience.
 - Optimizated mods to make more user sensitive
 - Furniture mods to make your house to feel like you want 
 
-## _Recommendations
+## Recommendations
 If you want to use shaders is reccomended to use Complementary
 
 [Complementary Shaders](https://www.curseforge.com/minecraft/customization/complementary-shaders)
